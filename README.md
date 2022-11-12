@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavidPM
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python, Matlab, and C
+- 🌱 I’m currently learning Python, Matlab, C, C++ and JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jmoraveji@gmail.com
 
